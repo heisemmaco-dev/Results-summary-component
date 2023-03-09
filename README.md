@@ -10,8 +10,8 @@ This project help me to understand, how to place a div tag or any tag close to e
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid--3IBxjCqjm)
+- Live Site URL: [https://heisemmaco.github.io/Results-summary-component/]
 
 ## My process
 
